@@ -12,12 +12,21 @@ First of all, download the project and open it in IDE. You'll need PostgreSQL in
 # what can it do
 
 Current features are: 
+
 1 - add client
+
 2 - delete client
+
 3 - add items
+
 4 - delete item
+
 5 - update item price
+
 6 - show all items
+
 7 - show all clients
+
 8 - register a new purchase
+
 9 - show all orders
